@@ -1,3 +1,3 @@
 # movieboxd
 
-A new Flutter project.
+OYK2023 - Flutter moviebox project.
